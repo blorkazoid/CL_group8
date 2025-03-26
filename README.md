@@ -2,6 +2,7 @@
 group project for the course Computational Linguistics
 
 Getting started:
+When you want to change something, create a seperate branch, you can upload the branch, and merge it. Learn more: https://github.com/skills/introduction-to-github
 How do I use git(hub) with VSCode: https://www.youtube.com/watch?v=i_23KUAEtUM
 
 To do:
