@@ -6,8 +6,9 @@ When you want to change something, create a seperate branch, you can upload the 
 How do I use git(hub) with VSCode: https://www.youtube.com/watch?v=i_23KUAEtUM
 
 To do:
-- get everyone setup and comfortable with git(hub)
-- check if F found the correct files
+- finish assigned tasks
+- divide leftover tasks amongst teammembers
+- make sure final document contains only relevant comments 
 
 Source of the files:
 
